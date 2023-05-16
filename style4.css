@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}#cabeça{
+    position: absolute;
+width: 100%;
+height: 199px;
+
+background: #5033FF;
+}#página-principal{
+    margin-top: 60px;
+    margin-left: 40px;
+    font-size: 50px;
+    color: black;
+    
+
+} a{
+    text-decoration: none;
+} a :hover{
+    text-decoration: underline;
+}#título{
+    position: absolute;
+width: 349px;
+height: 83px;
+left: 800px;
+top: 60px;
+
+font-size: 60px;
+line-height: 75px;
+color: white;
+}#turma{
+    position: absolute;
+width: 269px;
+height: 38px;
+left: 1550px;
+top: 60px;
+font-size: 60px;
+color: white;
+}#corpo{
+    position: absolute;
+width: 100%;
+height: 1499px;
+top: 200px;
+background: linear-gradient(180deg, #05FF00 0%, #8C01FA 0.01%, #01FABE 100%);
+}#texto1{
+    position: absolute;
+    top: 300px;
+    font-size: 60px;
+    width: 1800px;
+    left: 100px;
+
+}#botão1{
+    position: absolute;
+    top: 500px;
+    width: 400px;
+    height: 200px;
+}
